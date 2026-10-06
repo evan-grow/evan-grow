@@ -2,13 +2,14 @@
 
 > **Passionate** and **persistent**, and good at **analyzing** and **digging deep**.
 
-📧 kyhkyj1147@gmail.com · [jjun._.221](https://www.instagram.com/jjun._.221)
+📧 Email : kyhkyj1147@gmail.com
+SNS : [jjun._.221](https://www.instagram.com/jjun._.221)
 
 ---
 
 ## 👤 About Me
-- 
-- <Backend·Android / I aim to solve user pain points through code.>
+- I prioritize user convenience in our development.
+- Backend·Android / I aim to solve user pain points through code.
 
 ## 🛠 Tech Stack
 | 구분 | 기술 |
